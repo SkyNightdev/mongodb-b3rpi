@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67c5bd1b932beeeae4841dc2"
+  },
+  "name": "Sophie Martin",
+  "age": 24,
+  "email": "sophie@gmail.com",
+  "telephone": "06 47 85 64 72",
+  "datebirth": {
+    "$date": "1995-05-20T00:00:00.000Z"
+  },
+  "adresse": {
+    "rue": "57 avenue de l eglise",
+    "ville": "Lyon",
+    "codepostal": "69220",
+    "pays": "France"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5cab717a03cc79a74923b"
+  },
+  "name": "Antoine Martinez",
+  "age": 24,
+  "email": "antoine@gmail.com",
+  "telephone": "06 47 85 64 85",
+  "datebirth": {
+    "$date": "1999-05-20T00:00:00.000Z"
+  },
+  "adresse": {
+    "rue": "85 avenue de challet",
+    "ville": "Lyon",
+    "codepostal": "69220",
+    "pays": "France"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5cab717a03cc79a74923c"
+  },
+  "name": "Joe Doe",
+  "age": 26,
+  "email": "joe@gmail.com",
+  "telephone": "06 47 85 64 71",
+  "datebirth": {
+    "$date": "1997-05-20T00:00:00.000Z"
+  },
+  "adresse": {
+    "rue": "57 avenue du lycee",
+    "ville": "Lyon",
+    "codepostal": "69220",
+    "pays": "France"
+  }
+}]

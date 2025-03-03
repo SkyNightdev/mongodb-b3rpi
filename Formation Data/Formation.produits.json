@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb1"
+  },
+  "name": "Laptop",
+  "prix": "399.99",
+  "quanititestock": "42",
+  "nbrvente": "17"
+},
+{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb2"
+  },
+  "name": "Asus 8go ram",
+  "prix": "599.99",
+  "quanititestock": "34",
+  "nbrvente": "26"
+},
+{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb3"
+  },
+  "name": "Asus 16go ram",
+  "prix": "659.99",
+  "quanititestock": "34",
+  "nbrvente": "38"
+},
+{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb4"
+  },
+  "name": "Asus Gaming 32go ram",
+  "prix": "890.99",
+  "quanititestock": "41",
+  "nbrvente": "29"
+},
+{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb5"
+  },
+  "name": "MSI 8go ram",
+  "prix": "645.99",
+  "quanititestock": "32",
+  "nbrvente": "15"
+},
+{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb6"
+  },
+  "name": "MSI 16go ram",
+  "prix": "769.99",
+  "quanititestock": "37",
+  "nbrvente": "26"
+},
+{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb7"
+  },
+  "name": "MSI Gaming 32go ram",
+  "prix": "899.99",
+  "quanititestock": "54",
+  "nbrvente": "42"
+},
+{
+  "_id": {
+    "$oid": "67c5cf59ab895b9da270adb8"
+  },
+  "name": "Mac Book",
+  "prix": "849.99",
+  "quanititestock": "36",
+  "nbrvente": "16"
+},
+{
+  "_id": {
+    "$oid": "67c5cf5aab895b9da270adb9"
+  },
+  "name": "Mac Book Pro",
+  "prix": "1189.99",
+  "quanititestock": "54",
+  "nbrvente": "28"
+},
+{
+  "_id": {
+    "$oid": "67c5cf5aab895b9da270adba"
+  },
+  "name": "Tour Fixe Gaming",
+  "prix": "1449.99",
+  "quanititestock": "47",
+  "nbrvente": "34"
+}]
