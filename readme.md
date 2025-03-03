@@ -2,8 +2,9 @@ Cours Note :
 
 SQL normal :
 
-ALTER TABLE : Modification d une table
-CREATE TABLE : Création d une table
+ALTER TABLE = Modification d une table
+
+CREATE TABLE = Création d une table
 
 -------------------------------------
 
