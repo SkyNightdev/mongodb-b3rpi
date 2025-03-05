@@ -23,3 +23,5 @@ db.produits.insertOne({
     //données
 })
 
+
+PS : Les autres commandes sont notées dans les TP 1,2 et finale
