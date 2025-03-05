@@ -51,3 +51,19 @@ db.livres.deleteMany({auteur: "Victor Hugo"});
 
 // SUPPR UN UTILISATEUR
 db.utilisateurs.deleteOne({email: "thomas.martin@example.com"});
+
+
+
+// PARTIE 5
+
+// TRIE PAR NOTE
+db.livres.find().sort({note_moyenne: -1});
+
+// 3 PLUS ANCIENS
+db.livres.find().sort({annee_publication: 1}).limit(3);
+
+// NBR LIVRE PAR AUTEUR
+db.livres.aggregate([{$group: {_id: "$auteur", total: {$sum: 1}}}]);
+
+// PROJECTION TITRE/AUTEUR/NOTE
+db.livres.find({}, {titre: 1, auteur: 1, note_moyenne: 1, _id: 0});
